@@ -1,0 +1,5 @@
+br/com/caixaeletronico/model/NotasDisponiveis.class
+br/com/caixaeletronico/service/ProcessamentoServiceImpl.class
+br/com/caixaeletronico/model/DadosProcessamento.class
+br/com/caixaeletronico/CaixaEletronico.class
+br/com/caixaeletronico/service/ProcessamentoService.class
